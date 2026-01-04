@@ -71,7 +71,7 @@ qq: rf - same as "ㅂㅂ: ㄱㄹ" (it's used to confuse people lol)
 - 얼음 - ice
 - 서리 - frost
 - 물리 - physical
-- 에테르- ether
+- 에테르 - ether
 - 서슬 - honed edge
 
 운명의 길 - path (destruction, hunt, erudition) (for HSR)
