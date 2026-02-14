@@ -71,11 +71,14 @@ So how to find it? Click on **공지** then scroll down and look for **the post 
 
 Pretty simple: if you see 국룰/ㄱㄹ - it's "g******" !
 
-### For Wuwa players:  
+### For Wuwa and Endfield players:  
+> Wuwa channel recently became Wuwa + Endfield channel!
 
-Unlike Hoyoverse modding community, Wuwa’s password is easily accessible:
+Unlike Hoyoverse modding community, their password is easily accessible:
 
-![wuwa](images/11_wuwa_nr.png)
+![wuwa1](images/11_wuwa_nr.png)
+
+![wuwa2](images/11_wuwa_nr2.png)  
 
 ### So… is “*******” = password for downloading all korean mods? Partially... Let me explain in the next section! :D
 
