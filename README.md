@@ -78,7 +78,9 @@ Unlike Hoyoverse modding community, their password is easily accessible:
 
 ![wuwa1](images/11_wuwa_nr.png)
 
-![wuwa2](images/11_wuwa_nr2.png)  
+![wuwa2](images/11_wuwa_nr3.png)
+
+![wuwa3](images/11_wuwa_nr2.png)  
 
 ### So… is “*******” = password for downloading all korean mods? Partially... Let me explain in the next section! :D
 
