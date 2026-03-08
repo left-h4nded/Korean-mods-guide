@@ -19,7 +19,7 @@ This is what Arcalive looks like. You don't have to register unless you want NSF
 - Top Search Bar: you can find many groups for different games and stuff (basically it's korean Reddit lol)  
 As for gacha games modding there are two main groups:
   - **미호요스킨모드 채널** - Genshin, HSR, ZZZ
-  - **명조 모딩 채널** - Wuwa
+  - **명조 엔드필드 모딩 채널** - Wuwa, Endfield
 - Bottom Search Bar: you can find posts and mods. There you can enter character or mod name.  
   Characters' names in korean:
   - Genshin: https://genshin-builds.com/ko/characters
