@@ -136,7 +136,7 @@ For a better understanding take a look on korean keyboard:
 
 ![example](images/14_hanta.jpg)
 
-“ㅎ두노ㅑㅜ” is <ins>not a translation</ins> for “genshin”, it’s just random korean letters
+“ㅎ두노ㅑㅜ” is <ins>not a translation</ins> for “genshin”, it’s just random korean letters that match "genshin" in english ( g = ㅎ, e = ㄷ, n = ㅜ, etc.)
 
 ❗There is a tool for converting egnlish keyboard to korean and vice versa:  
 - Link: https://wepplication.github.io/tools/eng2Kor/
