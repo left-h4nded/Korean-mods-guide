@@ -89,7 +89,7 @@ Unlike Hoyoverse modding community, their password is easily accessible:
 
 ### Type 1: The most simple one and yeah, that's just the national rule itself  
 
-Usually written as:
+Usually mentioned as:
 - 국룰
 - ㄱㄹ
 - 비번 국룰
@@ -101,7 +101,7 @@ it can be:
 - date of upload or any other date
 - special characters (@,!,#,%,etc.)
 
-Usually written as:
+Usually mentioned as:
 - 국룰 케릭터 생일 / 이름 / 속성 etc.
 - 국룰! / 국룰@
 
