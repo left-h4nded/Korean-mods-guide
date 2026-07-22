@@ -24,9 +24,11 @@
 
 영타/영문/영어 - english layout
 
-ㄱㄱ or 기간 - duration (how long it is available to download)
+ㄱㄱ or 기간 - duration (how long mod is available for downloading)
 
-ㄱㄱㅎㄷ or 기간한달 - one month period (mod download availability)
+ㄱㄱㅇㅈ or 기간 이레 - one week
+
+ㄱㄱㅎㄷ or 기간한달 - one month
 
 만료 or 만료일 - expiration date
 
